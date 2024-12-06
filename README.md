@@ -31,12 +31,6 @@ El proyecto está organizado en los siguientes paquetes:
 - **`repository`**: Interacciones con la base de datos (CRUD de libros y autores).
 - **`controller`**: Controladores que manejan la entrada del usuario y muestran los resultados en consola.
 
-### Base de Datos
-
-La base de datos utilizada es **SQL**, en la que se almacenan dos tablas principales:
-
-1. **Libros**: Almacena la información sobre los libros y autores.
-
 Ejemplo de Interacción
 Elige la opcion a traves de su numero:
                 1 - Buscar libro por titulo
